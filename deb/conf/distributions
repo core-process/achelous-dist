@@ -1,0 +1,47 @@
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: xenial
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: artful
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: bionic
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: jessie
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: stretch
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: buster
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository

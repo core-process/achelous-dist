@@ -1,0 +1,29 @@
+Origin: Niklas Salmoukas <niklas@salmoukas.com>
+Label: Niklas Salmoukas <niklas@salmoukas.com>
+Suite: stable
+Codename: artful
+Date: Fri, 16 Mar 2018 22:35:42 UTC
+Architectures: amd64 armhf
+Components: main
+Description: Achelous Repository
+MD5Sum:
+ fb7111a2788b394e40570df35946138d 709 main/binary-amd64/Packages
+ 28a3dff4cde9f4a579f6febafd18fe5e 484 main/binary-amd64/Packages.gz
+ d683f1a9583273f8a79eacf1eecedde7 180 main/binary-amd64/Release
+ 62497e7fdcece7d5cccb2876dd752a1b 709 main/binary-armhf/Packages
+ ce11cc05c4b07a58ca6888810379648f 485 main/binary-armhf/Packages.gz
+ d205b2cd3264eeef67b897366d88c7b5 180 main/binary-armhf/Release
+SHA1:
+ d12e40e3f2da6f51e7073142e8ea5f6ecefb4125 709 main/binary-amd64/Packages
+ 210c67929df827f31cd834f53579af9984cb114f 484 main/binary-amd64/Packages.gz
+ 4e86b485bec128ebe1fd9cb790b71bb18df9dc5a 180 main/binary-amd64/Release
+ b4242c00cab2fb337298ea63fbf36b4cf396758d 709 main/binary-armhf/Packages
+ 68039006826af696d9fb30404d748c7301ec2aa5 485 main/binary-armhf/Packages.gz
+ a2f464b6b5e5764a7547301e938bd63b528c68f0 180 main/binary-armhf/Release
+SHA256:
+ 58f0e2d4ee13775c18643d54d439e8fc97c48deeebe317ab308debe96e2d72fa 709 main/binary-amd64/Packages
+ 970544102959a2d2070e5750bb03f8e4891a1367893ac1f165b5c4b8c1e4319d 484 main/binary-amd64/Packages.gz
+ 178ad1808312f5bdc13d576180d5b740686ee1b859be76796fc49e6b67e4112e 180 main/binary-amd64/Release
+ c0a104521ad6dd712051cb62f11a78dd04b53e357f4b446abf34cf6f061382a5 709 main/binary-armhf/Packages
+ 1e65c1dc4840531f8a2319c5efafd37d39929e1bab753a43684c52a35ae7c466 485 main/binary-armhf/Packages.gz
+ 3a5361d0c3642ebc315d3a8355c3de1e2e734b4eb3848fe0101943f9fa113101 180 main/binary-armhf/Release

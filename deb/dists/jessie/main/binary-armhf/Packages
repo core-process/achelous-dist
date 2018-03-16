@@ -1,0 +1,20 @@
+Package: achelous
+Version: 1.2.0-1
+Architecture: armhf
+Depends: adduser, libc6, lsb-base
+Replaces: mail-transport-agent
+Provides: mail-transport-agent
+Maintainer: Niklas Salmoukas <niklas@salmoukas.com>
+Homepage: https://github.com/core-process/achelous
+Priority: optional
+Section: mail
+Filename: pool/main/a/achelous/achelous_1.2.0-1_armhf.deb
+Size: 3492990
+SHA256: 984ef3824b050ca82667b7ed0a7c311259b6762371aa08829fcc00c78bae6fd3
+SHA1: 4148868dc5d12af10aa56b9f3e99001dc70333f3
+MD5sum: 1ad2e9bde8ecb77e4e93e81f87984a65
+Description: Sendmail replacement, which queues and uploads
+ emails to a web service. We designed it for IoT devices and
+ containers, which might send emails for administrative
+ purposes.
+
