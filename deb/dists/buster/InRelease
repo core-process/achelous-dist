@@ -1,8 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
 Suite: stable
-Codename: xenial
-Date: Fri, 16 Mar 2018 23:09:55 UTC
+Codename: buster
+Date: Fri, 16 Mar 2018 23:09:57 UTC
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
@@ -27,3 +30,13 @@ SHA256:
  c0a104521ad6dd712051cb62f11a78dd04b53e357f4b446abf34cf6f061382a5 709 main/binary-armhf/Packages
  1e65c1dc4840531f8a2319c5efafd37d39929e1bab753a43684c52a35ae7c466 485 main/binary-armhf/Packages.gz
  3a5361d0c3642ebc315d3a8355c3de1e2e734b4eb3848fe0101943f9fa113101 180 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCAAGBQJarE7FAAoJENHkgsZkFazFXoQIAIcWfrD/PwNz+exNvVzFcp54
+ehadXvQ8ElhJOPOj/InNMtPnbwBNMPvE6v/7bgMRLAWe6dOGhnofT9k+48gMdrVX
+anf+/T2v/HfPy3EduwXlO5GjpniT3ygTUZm0p+gpb7oBIW8l7IFM26ESMS9jOkqF
+NjG22CTmdtpuVx1EHaQ+oN4dU8GnMGhp6tiTb/my/uI5GPZAHvhP+lYeWPJ18zcD
+WB3keE8K1rdq/vPa54O/6VD8YuIyim2rUl1FjeIv4aJo3XB2E9p+YfZwbRDtgIPB
+cadEELl+EgCpcMrBl81fEyqgw7SUWaL2/0B4LCvD9oaHFSSZF2TXEtkAGGhNP8s=
+=jMwP
+-----END PGP SIGNATURE-----

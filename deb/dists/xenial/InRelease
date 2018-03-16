@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
 Suite: stable
@@ -27,3 +30,13 @@ SHA256:
  c0a104521ad6dd712051cb62f11a78dd04b53e357f4b446abf34cf6f061382a5 709 main/binary-armhf/Packages
  1e65c1dc4840531f8a2319c5efafd37d39929e1bab753a43684c52a35ae7c466 485 main/binary-armhf/Packages.gz
  3a5361d0c3642ebc315d3a8355c3de1e2e734b4eb3848fe0101943f9fa113101 180 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCAAGBQJarE7DAAoJENHkgsZkFazFP6UH/iGyjCT8LBwp3niRNUbc+zkN
+q5T21Wo1ldS+tpHNsNuU9PHvuoRzRhwGHXcesBVvRgorjHKpcowOdZ7VpO4ceGwq
+jhl4+Gj6HWIdGyVwBUOFzfLH+P6I5x20T8+sPZmtfu6AytjGZW8ed1H6yFvVBuDw
+j5Po7vb4pOsPFVcs8xJQoieUuOEiEUz5ETSY6AtpeWIlBxJv7NlKSO0Ux9iTAiNN
+xwHo8d92bwzR26PDbFuQxPMpgn7FOh9pudYcQX3Xrg61hJoig1IdqZPvHjvNZV8a
+8xYc0NFzP9mKI4XsLWPjuD6EWLxCDIa7DGfthzFjlmIFrLZzYii0HgR/ibm6ogg=
+=6bV8
+-----END PGP SIGNATURE-----

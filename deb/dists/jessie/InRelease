@@ -1,8 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
 Suite: stable
-Codename: xenial
-Date: Fri, 16 Mar 2018 23:09:55 UTC
+Codename: jessie
+Date: Fri, 16 Mar 2018 23:09:56 UTC
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
@@ -27,3 +30,13 @@ SHA256:
  c0a104521ad6dd712051cb62f11a78dd04b53e357f4b446abf34cf6f061382a5 709 main/binary-armhf/Packages
  1e65c1dc4840531f8a2319c5efafd37d39929e1bab753a43684c52a35ae7c466 485 main/binary-armhf/Packages.gz
  3a5361d0c3642ebc315d3a8355c3de1e2e734b4eb3848fe0101943f9fa113101 180 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCAAGBQJarE7EAAoJENHkgsZkFazFuk8H/3lhqmSIXprCsPJG6XtudbKk
+qln7rpyvwYzTrysizCLQ/fe8UI0q0Vtkn833sb2jh7AYnnJPn3UgzFwqeViQg3xS
+Gjm6PYvS5OcmJFk8to1S/oIqOr75tJOertON5ukqyxQt7ENPR6yg305YjUTico1M
+YFvBToERtdUVhZANNH/KrYgiy4A1AdYpuhpzqX8oA52AFimZ8V9Bi+DdYQbx7l4h
+/xVaEnvCjgiyZnz0s3NJq20ez90ZjFK7Wik3kgLgaNiRGBINIn0gLxIFe0bOkWub
+gOWyI9e6A9W+Mc0abKmip4gQZF52rDY2AH4UIXPggPFj4o3sMkMtMflcTjvqGZs=
+=29NC
+-----END PGP SIGNATURE-----

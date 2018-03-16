@@ -5,6 +5,7 @@ Codename: xenial
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
 
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
@@ -13,6 +14,7 @@ Codename: artful
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
 
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
@@ -21,6 +23,7 @@ Codename: bionic
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
 
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
@@ -29,6 +32,7 @@ Codename: jessie
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
 
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
@@ -37,6 +41,7 @@ Codename: stretch
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
 
 Origin: Niklas Salmoukas <niklas@salmoukas.com>
 Label: Niklas Salmoukas <niklas@salmoukas.com>
@@ -45,3 +50,4 @@ Codename: buster
 Architectures: amd64 armhf
 Components: main
 Description: Achelous Repository
+SignWith: 6415ACC5
